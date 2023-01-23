@@ -17,57 +17,6 @@
       },
       {
         "type": "category",
-        "label": "Alsys Admin",
-        "collapsible": true,
-        "collapsed": true,
-        "items": [
-          {
-            "type": "link",
-            "label": "Guide to Alsys Admin application",
-            "href": "/alsys_user_cards/docs/Alsys Admin/Guide to Alsys Admin application",
-            "docId": "Alsys Admin/Guide to Alsys Admin application"
-          },
-          {
-            "type": "link",
-            "label": "User management",
-            "href": "/alsys_user_cards/docs/Alsys Admin/User management",
-            "docId": "Alsys Admin/User management"
-          },
-          {
-            "type": "link",
-            "label": "Health",
-            "href": "/alsys_user_cards/docs/Alsys Admin/Health",
-            "docId": "Alsys Admin/Health"
-          },
-          {
-            "type": "link",
-            "label": "Newsfeed",
-            "href": "/alsys_user_cards/docs/Alsys Admin/Newsfeed",
-            "docId": "Alsys Admin/Newsfeed"
-          },
-          {
-            "type": "link",
-            "label": "Induction",
-            "href": "/alsys_user_cards/docs/Alsys Admin/Induction",
-            "docId": "Alsys Admin/Induction"
-          },
-          {
-            "type": "link",
-            "label": "Time & Attendance",
-            "href": "/alsys_user_cards/docs/Alsys Admin/Time & Attendance",
-            "docId": "Alsys Admin/Time & Attendance"
-          },
-          {
-            "type": "link",
-            "label": "Organization",
-            "href": "/alsys_user_cards/docs/Alsys Admin/Organization",
-            "docId": "Alsys Admin/Organization"
-          }
-        ],
-        "href": "/alsys_user_cards/docs/category/alsys-admin"
-      },
-      {
-        "type": "category",
         "label": "Alsys Connect",
         "collapsible": true,
         "collapsed": true,
@@ -126,48 +75,6 @@
     ]
   },
   "docs": {
-    "Alsys Admin/Guide to Alsys Admin application": {
-      "id": "Alsys Admin/Guide to Alsys Admin application",
-      "title": "Guide to Alsys Admin application",
-      "description": "Getting started on Alsys Admn tablet app",
-      "sidebar": "tutorialSidebar"
-    },
-    "Alsys Admin/Health": {
-      "id": "Alsys Admin/Health",
-      "title": "Health",
-      "description": "How to set up the Health section",
-      "sidebar": "tutorialSidebar"
-    },
-    "Alsys Admin/Induction": {
-      "id": "Alsys Admin/Induction",
-      "title": "Induction",
-      "description": "General Induction",
-      "sidebar": "tutorialSidebar"
-    },
-    "Alsys Admin/Newsfeed": {
-      "id": "Alsys Admin/Newsfeed",
-      "title": "Newsfeed",
-      "description": "Newsfeed posts categories",
-      "sidebar": "tutorialSidebar"
-    },
-    "Alsys Admin/Organization": {
-      "id": "Alsys Admin/Organization",
-      "title": "Organization",
-      "description": "What is an organization",
-      "sidebar": "tutorialSidebar"
-    },
-    "Alsys Admin/Time & Attendance": {
-      "id": "Alsys Admin/Time & Attendance",
-      "title": "Time & Attendance",
-      "description": "What is Time & Attendance",
-      "sidebar": "tutorialSidebar"
-    },
-    "Alsys Admin/User management": {
-      "id": "Alsys Admin/User management",
-      "title": "User management",
-      "description": "How to use the app to effectively manage your users.",
-      "sidebar": "tutorialSidebar"
-    },
     "Alsys Connect/Guide to Mobile Application": {
       "id": "Alsys Connect/Guide to Mobile Application",
       "title": "Guide to Mobile Application",
