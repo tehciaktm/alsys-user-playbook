@@ -29,11 +29,8 @@ import signupusers from '/Users/tehciaktm/Documents/GitHub/alsys_user_cards/stat
 * Alsys Connect for iOS requires a device running iOS 14.0 or later.
 * Alsys Connect for Android requires a device running Android 9.0 and up.
 
-<font color="blue">Please note:</font> Any other mobile operating system that is not the standard version of Android OS is not supported; your device may run into compatibility issues with the Alsys mobile and tablet app.
-
-
-
-
-
+:::note
+Any other mobile operating system that is not the standard version of Android OS is not supported; your device may run into compatibility issues with the mobile and tablet app.
+:::
 
 
