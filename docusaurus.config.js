@@ -61,7 +61,7 @@ const config = {
         maxHeadingLevel: 5,
       },
       navbar: {
-        //title: 'Alsys Ltd.',
+        //title: 'Alsys',
         logo: {
           alt: 'My Site Logo',
           src: 'img/icon_ok.svg', 
