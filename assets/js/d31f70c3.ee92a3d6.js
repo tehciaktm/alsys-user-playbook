@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkplaybook=self.webpackChunkplaybook||[]).push([[9640],{6452:s=>{s.exports=JSON.parse('{"label":"docusaurus","permalink":"/alsys-user-playbook/blog/tags/docusaurus","allTagsPath":"/alsys-user-playbook/blog/tags","count":4}')}}]);
