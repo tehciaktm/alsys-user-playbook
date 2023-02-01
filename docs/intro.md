@@ -14,7 +14,7 @@ slug: /
 </summary>
 
 
-import alsys_intro1 from '/Users/tehciaktm/Documents/GitHub/alsys_admin_cards/static/img/alsys_intro.png';
+import alsys_intro1 from '/Users/tehciaktm/Documents/GitHub/alsys_user_cards/static/img/alsys_intro.png';
 
 <img align="left" src={alsys_intro1} alt="alsys_intro1" width="400"/>
 

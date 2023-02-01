@@ -3,41 +3,6 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/alsys-user-playbook/__docusaurus/debug',
-    component: ComponentCreator('/alsys-user-playbook/__docusaurus/debug', 'ac7'),
-    exact: true
-  },
-  {
-    path: '/alsys-user-playbook/__docusaurus/debug/config',
-    component: ComponentCreator('/alsys-user-playbook/__docusaurus/debug/config', '570'),
-    exact: true
-  },
-  {
-    path: '/alsys-user-playbook/__docusaurus/debug/content',
-    component: ComponentCreator('/alsys-user-playbook/__docusaurus/debug/content', 'f4a'),
-    exact: true
-  },
-  {
-    path: '/alsys-user-playbook/__docusaurus/debug/globalData',
-    component: ComponentCreator('/alsys-user-playbook/__docusaurus/debug/globalData', '316'),
-    exact: true
-  },
-  {
-    path: '/alsys-user-playbook/__docusaurus/debug/metadata',
-    component: ComponentCreator('/alsys-user-playbook/__docusaurus/debug/metadata', '90b'),
-    exact: true
-  },
-  {
-    path: '/alsys-user-playbook/__docusaurus/debug/registry',
-    component: ComponentCreator('/alsys-user-playbook/__docusaurus/debug/registry', '558'),
-    exact: true
-  },
-  {
-    path: '/alsys-user-playbook/__docusaurus/debug/routes',
-    component: ComponentCreator('/alsys-user-playbook/__docusaurus/debug/routes', 'c84'),
-    exact: true
-  },
-  {
     path: '/alsys-user-playbook/blog',
     component: ComponentCreator('/alsys-user-playbook/blog', '088'),
     exact: true
