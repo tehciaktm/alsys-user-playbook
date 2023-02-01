@@ -99,8 +99,14 @@ export default [
   },
   {
     path: '/alsys_user_cards/docs/next',
-    component: ComponentCreator('/alsys_user_cards/docs/next', '148'),
+    component: ComponentCreator('/alsys_user_cards/docs/next', 'cc1'),
     routes: [
+      {
+        path: '/alsys_user_cards/docs/next/',
+        component: ComponentCreator('/alsys_user_cards/docs/next/', '5a7'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
       {
         path: '/alsys_user_cards/docs/next/Alsys Connect/Guide to Mobile Application',
         component: ComponentCreator('/alsys_user_cards/docs/next/Alsys Connect/Guide to Mobile Application', '280'),
@@ -154,19 +160,19 @@ export default [
         component: ComponentCreator('/alsys_user_cards/docs/next/category/alsys-connect', '4a1'),
         exact: true,
         sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/alsys_user_cards/docs/next/intro',
-        component: ComponentCreator('/alsys_user_cards/docs/next/intro', '192'),
-        exact: true,
-        sidebar: "tutorialSidebar"
       }
     ]
   },
   {
     path: '/alsys_user_cards/docs',
-    component: ComponentCreator('/alsys_user_cards/docs', 'cc9'),
+    component: ComponentCreator('/alsys_user_cards/docs', '34f'),
     routes: [
+      {
+        path: '/alsys_user_cards/docs/',
+        component: ComponentCreator('/alsys_user_cards/docs/', '543'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
       {
         path: '/alsys_user_cards/docs/Alsys Connect/Guide to Mobile Application',
         component: ComponentCreator('/alsys_user_cards/docs/Alsys Connect/Guide to Mobile Application', '8b2'),
@@ -218,12 +224,6 @@ export default [
       {
         path: '/alsys_user_cards/docs/category/alsys-connect',
         component: ComponentCreator('/alsys_user_cards/docs/category/alsys-connect', 'c91'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/alsys_user_cards/docs/intro',
-        component: ComponentCreator('/alsys_user_cards/docs/intro', '39c'),
         exact: true,
         sidebar: "tutorialSidebar"
       }

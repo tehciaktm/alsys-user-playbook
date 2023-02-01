@@ -186,12 +186,16 @@
     },
     "content": "content---alsys-user-cards-markdown-page-393-d0b"
   },
-  "/alsys_user_cards/docs/next-148": {
+  "/alsys_user_cards/docs/next-cc1": {
     "__comp": "__comp---theme-doc-page-1-be-9be",
     "__context": {
       "plugin": "plugin---alsys-user-cards-docs-next-3-fb-a9f"
     },
     "versionMetadata": "versionMetadata---alsys-user-cards-docs-next-935-89c"
+  },
+  "/alsys_user_cards/docs/next/-5a7": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---alsys-user-cards-docs-next-intro-0-e-3-8e9"
   },
   "/alsys_user_cards/docs/next/Alsys Connect/Guide to Mobile Application-280": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -229,16 +233,16 @@
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
     "categoryGeneratedIndex": "categoryGeneratedIndex---alsys-user-cards-docs-next-category-alsys-connected-8-2a8"
   },
-  "/alsys_user_cards/docs/next/intro-192": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---alsys-user-cards-docs-next-intro-0-e-3-8e9"
-  },
-  "/alsys_user_cards/docs-cc9": {
+  "/alsys_user_cards/docs-34f": {
     "__comp": "__comp---theme-doc-page-1-be-9be",
     "__context": {
       "plugin": "plugin---alsys-user-cards-docs-next-3-fb-a9f"
     },
     "versionMetadata": "versionMetadata---alsys-user-cards-docs-62-e-5bd"
+  },
+  "/alsys_user_cards/docs/-543": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---alsys-user-cards-docs-intro-5-d-9-57f"
   },
   "/alsys_user_cards/docs/Alsys Connect/Guide to Mobile Application-8b2": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -275,10 +279,6 @@
   "/alsys_user_cards/docs/category/alsys-connect-c91": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
     "categoryGeneratedIndex": "categoryGeneratedIndex---alsys-user-cards-docs-category-alsys-connect-681-665"
-  },
-  "/alsys_user_cards/docs/intro-39c": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---alsys-user-cards-docs-intro-5-d-9-57f"
   },
   "/alsys_user_cards/-657": {
     "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",

@@ -10,17 +10,17 @@
   "draft": false,
   "tags": [],
   "version": "1.0.0",
-  "sidebarPosition": 6,
+  "sidebarPosition": 7,
   "frontMatter": {
-    "sidebar_position": 6
+    "sidebar_position": 7
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Health",
-    "permalink": "/alsys_user_cards/docs/Alsys Connect/Health"
-  },
-  "next": {
     "title": "Induction",
     "permalink": "/alsys_user_cards/docs/Alsys Connect/Induction"
+  },
+  "next": {
+    "title": "Settings",
+    "permalink": "/alsys_user_cards/docs/Alsys Connect/Settings"
   }
 }

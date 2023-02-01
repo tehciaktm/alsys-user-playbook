@@ -64,8 +64,8 @@
                 "permalink": "/alsys_user_cards/docs/next/Alsys Connect/Home"
               },
               "next": {
-                "title": "Newsfeed",
-                "permalink": "/alsys_user_cards/docs/next/Alsys Connect/Newsfeed"
+                "title": "Induction",
+                "permalink": "/alsys_user_cards/docs/next/Alsys Connect/Induction"
               }
             },
             {
@@ -106,18 +106,18 @@
               "draft": false,
               "tags": [],
               "version": "current",
-              "sidebarPosition": 7,
+              "sidebarPosition": 6,
               "frontMatter": {
-                "sidebar_position": 7
+                "sidebar_position": 6
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Newsfeed",
-                "permalink": "/alsys_user_cards/docs/next/Alsys Connect/Newsfeed"
+                "title": "Health",
+                "permalink": "/alsys_user_cards/docs/next/Alsys Connect/Health"
               },
               "next": {
-                "title": "Settings",
-                "permalink": "/alsys_user_cards/docs/next/Alsys Connect/Settings"
+                "title": "Newsfeed",
+                "permalink": "/alsys_user_cards/docs/next/Alsys Connect/Newsfeed"
               }
             },
             {
@@ -132,18 +132,18 @@
               "draft": false,
               "tags": [],
               "version": "current",
-              "sidebarPosition": 6,
+              "sidebarPosition": 7,
               "frontMatter": {
-                "sidebar_position": 6
+                "sidebar_position": 7
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Health",
-                "permalink": "/alsys_user_cards/docs/next/Alsys Connect/Health"
-              },
-              "next": {
                 "title": "Induction",
                 "permalink": "/alsys_user_cards/docs/next/Alsys Connect/Induction"
+              },
+              "next": {
+                "title": "Settings",
+                "permalink": "/alsys_user_cards/docs/next/Alsys Connect/Settings"
               }
             },
             {
@@ -164,8 +164,8 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Induction",
-                "permalink": "/alsys_user_cards/docs/next/Alsys Connect/Induction"
+                "title": "Newsfeed",
+                "permalink": "/alsys_user_cards/docs/next/Alsys Connect/Newsfeed"
               }
             },
             {
@@ -224,17 +224,20 @@
               "unversionedId": "intro",
               "id": "intro",
               "title": "Introduction",
-              "description": "Remote onboarding, Health & Safety and Personnel Management",
+              "description": "Remote Onboarding,",
               "source": "@site/docs/intro.md",
               "sourceDirName": ".",
-              "slug": "/intro",
-              "permalink": "/alsys_user_cards/docs/next/intro",
+              "slug": "/",
+              "permalink": "/alsys_user_cards/docs/next/",
               "draft": false,
               "tags": [],
               "version": "current",
               "sidebarPosition": 0,
               "frontMatter": {
-                "sidebar_position": 0
+                "sidebar_position": 0,
+                "hide_table_of_contents": false,
+                "title": "Introduction",
+                "slug": "/"
               },
               "sidebar": "tutorialSidebar",
               "next": {
@@ -278,11 +281,11 @@
                   },
                   {
                     "type": "doc",
-                    "id": "Alsys Connect/Newsfeed"
+                    "id": "Alsys Connect/Induction"
                   },
                   {
                     "type": "doc",
-                    "id": "Alsys Connect/Induction"
+                    "id": "Alsys Connect/Newsfeed"
                   },
                   {
                     "type": "doc",
@@ -362,8 +365,8 @@
                 "permalink": "/alsys_user_cards/docs/Alsys Connect/Home"
               },
               "next": {
-                "title": "Newsfeed",
-                "permalink": "/alsys_user_cards/docs/Alsys Connect/Newsfeed"
+                "title": "Induction",
+                "permalink": "/alsys_user_cards/docs/Alsys Connect/Induction"
               }
             },
             {
@@ -404,18 +407,18 @@
               "draft": false,
               "tags": [],
               "version": "1.0.0",
-              "sidebarPosition": 7,
+              "sidebarPosition": 6,
               "frontMatter": {
-                "sidebar_position": 7
+                "sidebar_position": 6
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Newsfeed",
-                "permalink": "/alsys_user_cards/docs/Alsys Connect/Newsfeed"
+                "title": "Health",
+                "permalink": "/alsys_user_cards/docs/Alsys Connect/Health"
               },
               "next": {
-                "title": "Settings",
-                "permalink": "/alsys_user_cards/docs/Alsys Connect/Settings"
+                "title": "Newsfeed",
+                "permalink": "/alsys_user_cards/docs/Alsys Connect/Newsfeed"
               }
             },
             {
@@ -430,18 +433,18 @@
               "draft": false,
               "tags": [],
               "version": "1.0.0",
-              "sidebarPosition": 6,
+              "sidebarPosition": 7,
               "frontMatter": {
-                "sidebar_position": 6
+                "sidebar_position": 7
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Health",
-                "permalink": "/alsys_user_cards/docs/Alsys Connect/Health"
-              },
-              "next": {
                 "title": "Induction",
                 "permalink": "/alsys_user_cards/docs/Alsys Connect/Induction"
+              },
+              "next": {
+                "title": "Settings",
+                "permalink": "/alsys_user_cards/docs/Alsys Connect/Settings"
               }
             },
             {
@@ -462,8 +465,8 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Induction",
-                "permalink": "/alsys_user_cards/docs/Alsys Connect/Induction"
+                "title": "Newsfeed",
+                "permalink": "/alsys_user_cards/docs/Alsys Connect/Newsfeed"
               }
             },
             {
@@ -522,18 +525,20 @@
               "unversionedId": "intro",
               "id": "version-1.0.0/intro",
               "title": "Introduction",
-              "description": "Remote Onboarding, Health & Safety and Personnel Management",
+              "description": "Remote Onboarding,",
               "source": "@site/versioned_docs/version-1.0.0/intro.md",
               "sourceDirName": ".",
-              "slug": "/intro",
-              "permalink": "/alsys_user_cards/docs/intro",
+              "slug": "/",
+              "permalink": "/alsys_user_cards/docs/",
               "draft": false,
               "tags": [],
               "version": "1.0.0",
               "sidebarPosition": 0,
               "frontMatter": {
                 "sidebar_position": 0,
-                "hide_table_of_contents": false
+                "hide_table_of_contents": false,
+                "title": "Introduction",
+                "slug": "/"
               },
               "sidebar": "tutorialSidebar",
               "next": {
@@ -577,11 +582,11 @@
                   },
                   {
                     "type": "doc",
-                    "id": "version-1.0.0/Alsys Connect/Newsfeed"
+                    "id": "version-1.0.0/Alsys Connect/Induction"
                   },
                   {
                     "type": "doc",
-                    "id": "version-1.0.0/Alsys Connect/Induction"
+                    "id": "version-1.0.0/Alsys Connect/Newsfeed"
                   },
                   {
                     "type": "doc",

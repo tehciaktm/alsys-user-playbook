@@ -52,7 +52,7 @@
             },
             {
               "id": "intro",
-              "path": "/alsys_user_cards/docs/next/intro",
+              "path": "/alsys_user_cards/docs/next/",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -65,7 +65,7 @@
           "sidebars": {
             "tutorialSidebar": {
               "link": {
-                "path": "/alsys_user_cards/docs/next/intro",
+                "path": "/alsys_user_cards/docs/next/",
                 "label": "intro"
               }
             }
@@ -120,7 +120,7 @@
             },
             {
               "id": "intro",
-              "path": "/alsys_user_cards/docs/intro",
+              "path": "/alsys_user_cards/docs/",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -133,7 +133,7 @@
           "sidebars": {
             "tutorialSidebar": {
               "link": {
-                "path": "/alsys_user_cards/docs/intro",
+                "path": "/alsys_user_cards/docs/",
                 "label": "version-1.0.0/intro"
               }
             }

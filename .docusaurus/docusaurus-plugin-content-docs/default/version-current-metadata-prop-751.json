@@ -12,7 +12,7 @@
       {
         "type": "link",
         "label": "Introduction",
-        "href": "/alsys_user_cards/docs/next/intro",
+        "href": "/alsys_user_cards/docs/next/",
         "docId": "intro"
       },
       {
@@ -53,15 +53,15 @@
           },
           {
             "type": "link",
-            "label": "Newsfeed",
-            "href": "/alsys_user_cards/docs/next/Alsys Connect/Newsfeed",
-            "docId": "Alsys Connect/Newsfeed"
-          },
-          {
-            "type": "link",
             "label": "Induction",
             "href": "/alsys_user_cards/docs/next/Alsys Connect/Induction",
             "docId": "Alsys Connect/Induction"
+          },
+          {
+            "type": "link",
+            "label": "Newsfeed",
+            "href": "/alsys_user_cards/docs/next/Alsys Connect/Newsfeed",
+            "docId": "Alsys Connect/Newsfeed"
           },
           {
             "type": "link",
@@ -126,7 +126,7 @@
     "intro": {
       "id": "intro",
       "title": "Introduction",
-      "description": "Remote onboarding, Health & Safety and Personnel Management",
+      "description": "Remote Onboarding,",
       "sidebar": "tutorialSidebar"
     }
   }
