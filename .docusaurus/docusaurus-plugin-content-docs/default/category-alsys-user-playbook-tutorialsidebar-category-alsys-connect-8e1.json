@@ -1,0 +1,16 @@
+{
+  "title": "Alsys Connect",
+  "description": "description should not appear. report this.",
+  "slug": "/category/alsys-connect",
+  "permalink": "/alsys-user-playbook/category/alsys-connect",
+  "navigation": {
+    "previous": {
+      "title": "Introduction",
+      "permalink": "/alsys-user-playbook/"
+    },
+    "next": {
+      "title": "Guide to Mobile Application",
+      "permalink": "/alsys-user-playbook/Alsys Connect/Guide to Mobile Application"
+    }
+  }
+}

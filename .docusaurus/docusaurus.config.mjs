@@ -7,12 +7,12 @@ export default {
   "title": "Welcome to Alsys Playbook",
   "tagline": "by Alsys LTD",
   "url": "https://tehciaktm.github.io",
-  "baseUrl": "/alsys_user_cards/",
+  "baseUrl": "/alsys-user-playbook/",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
-  "favicon": "img/favicon.ico",
+  "favicon": "img/favicon.npmico",
   "organizationName": "tehciaktm",
-  "projectName": "alsys_user_cards",
+  "projectName": "alsys-user-playbook",
   "i18n": {
     "defaultLocale": "en",
     "locales": [
@@ -26,6 +26,7 @@ export default {
       "classic",
       {
         "docs": {
+          "routeBasePath": "/",
           "sidebarPath": "/Users/tehciaktm/Documents/GitHub/alsys_user_cards/sidebars.js"
         },
         "blog": {
@@ -49,6 +50,12 @@ export default {
       },
       "items": [
         {
+          "type": "doc",
+          "docId": "intro",
+          "position": "left",
+          "label": "Docs"
+        },
+        {
           "type": "docsVersionDropdown",
           "position": "left",
           "dropdownItemsBefore": [],
@@ -58,6 +65,10 @@ export default {
       "hideOnScroll": false
     },
     "footer": {
+      "logo": {
+        "alt": "Meta Open Source Logo",
+        "src": "img/favicon.ico"
+      },
       "style": "dark",
       "links": [
         {
@@ -70,6 +81,32 @@ export default {
             {
               "label": "alsysoft.com",
               "href": "https://www.alsysoft.com/"
+            }
+          ]
+        },
+        {
+          "title": "Contact Us",
+          "items": [
+            {
+              "label": "UK +44 7522 585 427",
+              "href": "tel:+44%207522%20585%20427"
+            },
+            {
+              "label": "RO +40 756 196 206",
+              "href": "tel:+40%20756%20196206"
+            }
+          ]
+        },
+        {
+          "title": "Social",
+          "items": [
+            {
+              "label": "linkedin",
+              "href": "https://www.linkedin.com/company/alsys-ltd/"
+            },
+            {
+              "label": "facebook",
+              "href": "https://www.facebook.com/alsysoft"
             }
           ]
         }

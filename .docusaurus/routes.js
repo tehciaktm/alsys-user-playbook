@@ -3,236 +3,236 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/alsys_user_cards/__docusaurus/debug',
-    component: ComponentCreator('/alsys_user_cards/__docusaurus/debug', 'f0a'),
+    path: '/alsys-user-playbook/__docusaurus/debug',
+    component: ComponentCreator('/alsys-user-playbook/__docusaurus/debug', 'ac7'),
     exact: true
   },
   {
-    path: '/alsys_user_cards/__docusaurus/debug/config',
-    component: ComponentCreator('/alsys_user_cards/__docusaurus/debug/config', 'fd1'),
+    path: '/alsys-user-playbook/__docusaurus/debug/config',
+    component: ComponentCreator('/alsys-user-playbook/__docusaurus/debug/config', '570'),
     exact: true
   },
   {
-    path: '/alsys_user_cards/__docusaurus/debug/content',
-    component: ComponentCreator('/alsys_user_cards/__docusaurus/debug/content', 'f10'),
+    path: '/alsys-user-playbook/__docusaurus/debug/content',
+    component: ComponentCreator('/alsys-user-playbook/__docusaurus/debug/content', 'f4a'),
     exact: true
   },
   {
-    path: '/alsys_user_cards/__docusaurus/debug/globalData',
-    component: ComponentCreator('/alsys_user_cards/__docusaurus/debug/globalData', '83b'),
+    path: '/alsys-user-playbook/__docusaurus/debug/globalData',
+    component: ComponentCreator('/alsys-user-playbook/__docusaurus/debug/globalData', '316'),
     exact: true
   },
   {
-    path: '/alsys_user_cards/__docusaurus/debug/metadata',
-    component: ComponentCreator('/alsys_user_cards/__docusaurus/debug/metadata', 'a2d'),
+    path: '/alsys-user-playbook/__docusaurus/debug/metadata',
+    component: ComponentCreator('/alsys-user-playbook/__docusaurus/debug/metadata', '90b'),
     exact: true
   },
   {
-    path: '/alsys_user_cards/__docusaurus/debug/registry',
-    component: ComponentCreator('/alsys_user_cards/__docusaurus/debug/registry', 'b18'),
+    path: '/alsys-user-playbook/__docusaurus/debug/registry',
+    component: ComponentCreator('/alsys-user-playbook/__docusaurus/debug/registry', '558'),
     exact: true
   },
   {
-    path: '/alsys_user_cards/__docusaurus/debug/routes',
-    component: ComponentCreator('/alsys_user_cards/__docusaurus/debug/routes', '811'),
+    path: '/alsys-user-playbook/__docusaurus/debug/routes',
+    component: ComponentCreator('/alsys-user-playbook/__docusaurus/debug/routes', 'c84'),
     exact: true
   },
   {
-    path: '/alsys_user_cards/blog',
-    component: ComponentCreator('/alsys_user_cards/blog', 'ef5'),
+    path: '/alsys-user-playbook/blog',
+    component: ComponentCreator('/alsys-user-playbook/blog', '088'),
     exact: true
   },
   {
-    path: '/alsys_user_cards/blog/archive',
-    component: ComponentCreator('/alsys_user_cards/blog/archive', '940'),
+    path: '/alsys-user-playbook/blog/archive',
+    component: ComponentCreator('/alsys-user-playbook/blog/archive', 'c4d'),
     exact: true
   },
   {
-    path: '/alsys_user_cards/blog/first-blog-post',
-    component: ComponentCreator('/alsys_user_cards/blog/first-blog-post', 'e4f'),
+    path: '/alsys-user-playbook/blog/first-blog-post',
+    component: ComponentCreator('/alsys-user-playbook/blog/first-blog-post', 'df1'),
     exact: true
   },
   {
-    path: '/alsys_user_cards/blog/long-blog-post',
-    component: ComponentCreator('/alsys_user_cards/blog/long-blog-post', '0a7'),
+    path: '/alsys-user-playbook/blog/long-blog-post',
+    component: ComponentCreator('/alsys-user-playbook/blog/long-blog-post', 'c16'),
     exact: true
   },
   {
-    path: '/alsys_user_cards/blog/mdx-blog-post',
-    component: ComponentCreator('/alsys_user_cards/blog/mdx-blog-post', 'dde'),
+    path: '/alsys-user-playbook/blog/mdx-blog-post',
+    component: ComponentCreator('/alsys-user-playbook/blog/mdx-blog-post', '8fa'),
     exact: true
   },
   {
-    path: '/alsys_user_cards/blog/tags',
-    component: ComponentCreator('/alsys_user_cards/blog/tags', 'f47'),
+    path: '/alsys-user-playbook/blog/tags',
+    component: ComponentCreator('/alsys-user-playbook/blog/tags', '97d'),
     exact: true
   },
   {
-    path: '/alsys_user_cards/blog/tags/docusaurus',
-    component: ComponentCreator('/alsys_user_cards/blog/tags/docusaurus', 'e40'),
+    path: '/alsys-user-playbook/blog/tags/docusaurus',
+    component: ComponentCreator('/alsys-user-playbook/blog/tags/docusaurus', 'fe7'),
     exact: true
   },
   {
-    path: '/alsys_user_cards/blog/tags/facebook',
-    component: ComponentCreator('/alsys_user_cards/blog/tags/facebook', 'f6e'),
+    path: '/alsys-user-playbook/blog/tags/facebook',
+    component: ComponentCreator('/alsys-user-playbook/blog/tags/facebook', 'e72'),
     exact: true
   },
   {
-    path: '/alsys_user_cards/blog/tags/hello',
-    component: ComponentCreator('/alsys_user_cards/blog/tags/hello', 'e7a'),
+    path: '/alsys-user-playbook/blog/tags/hello',
+    component: ComponentCreator('/alsys-user-playbook/blog/tags/hello', 'e28'),
     exact: true
   },
   {
-    path: '/alsys_user_cards/blog/tags/hola',
-    component: ComponentCreator('/alsys_user_cards/blog/tags/hola', '612'),
+    path: '/alsys-user-playbook/blog/tags/hola',
+    component: ComponentCreator('/alsys-user-playbook/blog/tags/hola', 'd7e'),
     exact: true
   },
   {
-    path: '/alsys_user_cards/blog/welcome',
-    component: ComponentCreator('/alsys_user_cards/blog/welcome', '7e8'),
+    path: '/alsys-user-playbook/blog/welcome',
+    component: ComponentCreator('/alsys-user-playbook/blog/welcome', '329'),
     exact: true
   },
   {
-    path: '/alsys_user_cards/markdown-page',
-    component: ComponentCreator('/alsys_user_cards/markdown-page', '3dd'),
+    path: '/alsys-user-playbook/intro',
+    component: ComponentCreator('/alsys-user-playbook/intro', 'c52'),
     exact: true
   },
   {
-    path: '/alsys_user_cards/docs/next',
-    component: ComponentCreator('/alsys_user_cards/docs/next', 'cc1'),
+    path: '/alsys-user-playbook/markdown-page',
+    component: ComponentCreator('/alsys-user-playbook/markdown-page', '4ee'),
+    exact: true
+  },
+  {
+    path: '/alsys-user-playbook/next',
+    component: ComponentCreator('/alsys-user-playbook/next', '524'),
     routes: [
       {
-        path: '/alsys_user_cards/docs/next/',
-        component: ComponentCreator('/alsys_user_cards/docs/next/', '5a7'),
+        path: '/alsys-user-playbook/next/',
+        component: ComponentCreator('/alsys-user-playbook/next/', '171'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/alsys_user_cards/docs/next/Alsys Connect/Guide to Mobile Application',
-        component: ComponentCreator('/alsys_user_cards/docs/next/Alsys Connect/Guide to Mobile Application', '280'),
+        path: '/alsys-user-playbook/next/Alsys Connect/Guide to Mobile Application',
+        component: ComponentCreator('/alsys-user-playbook/next/Alsys Connect/Guide to Mobile Application', 'ec2'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/alsys_user_cards/docs/next/Alsys Connect/Health',
-        component: ComponentCreator('/alsys_user_cards/docs/next/Alsys Connect/Health', '752'),
+        path: '/alsys-user-playbook/next/Alsys Connect/Health',
+        component: ComponentCreator('/alsys-user-playbook/next/Alsys Connect/Health', 'ce7'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/alsys_user_cards/docs/next/Alsys Connect/Home',
-        component: ComponentCreator('/alsys_user_cards/docs/next/Alsys Connect/Home', '139'),
+        path: '/alsys-user-playbook/next/Alsys Connect/Home',
+        component: ComponentCreator('/alsys-user-playbook/next/Alsys Connect/Home', '714'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/alsys_user_cards/docs/next/Alsys Connect/Induction',
-        component: ComponentCreator('/alsys_user_cards/docs/next/Alsys Connect/Induction', '481'),
+        path: '/alsys-user-playbook/next/Alsys Connect/Induction',
+        component: ComponentCreator('/alsys-user-playbook/next/Alsys Connect/Induction', '868'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/alsys_user_cards/docs/next/Alsys Connect/Newsfeed',
-        component: ComponentCreator('/alsys_user_cards/docs/next/Alsys Connect/Newsfeed', '1ed'),
+        path: '/alsys-user-playbook/next/Alsys Connect/Newsfeed',
+        component: ComponentCreator('/alsys-user-playbook/next/Alsys Connect/Newsfeed', '471'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/alsys_user_cards/docs/next/Alsys Connect/Settings',
-        component: ComponentCreator('/alsys_user_cards/docs/next/Alsys Connect/Settings', '8a4'),
+        path: '/alsys-user-playbook/next/Alsys Connect/Settings',
+        component: ComponentCreator('/alsys-user-playbook/next/Alsys Connect/Settings', 'f11'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/alsys_user_cards/docs/next/Alsys Connect/User Profile',
-        component: ComponentCreator('/alsys_user_cards/docs/next/Alsys Connect/User Profile', '437'),
+        path: '/alsys-user-playbook/next/Alsys Connect/User Profile',
+        component: ComponentCreator('/alsys-user-playbook/next/Alsys Connect/User Profile', 'e76'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/alsys_user_cards/docs/next/Alsys Connect/User Registration',
-        component: ComponentCreator('/alsys_user_cards/docs/next/Alsys Connect/User Registration', 'b48'),
+        path: '/alsys-user-playbook/next/Alsys Connect/User Registration',
+        component: ComponentCreator('/alsys-user-playbook/next/Alsys Connect/User Registration', 'b23'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/alsys_user_cards/docs/next/category/alsys-connect',
-        component: ComponentCreator('/alsys_user_cards/docs/next/category/alsys-connect', '4a1'),
+        path: '/alsys-user-playbook/next/category/alsys-connect',
+        component: ComponentCreator('/alsys-user-playbook/next/category/alsys-connect', '9eb'),
         exact: true,
         sidebar: "tutorialSidebar"
       }
     ]
   },
   {
-    path: '/alsys_user_cards/docs',
-    component: ComponentCreator('/alsys_user_cards/docs', '34f'),
+    path: '/alsys-user-playbook/',
+    component: ComponentCreator('/alsys-user-playbook/', '79f'),
     routes: [
       {
-        path: '/alsys_user_cards/docs/',
-        component: ComponentCreator('/alsys_user_cards/docs/', '543'),
+        path: '/alsys-user-playbook/',
+        component: ComponentCreator('/alsys-user-playbook/', 'a19'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/alsys_user_cards/docs/Alsys Connect/Guide to Mobile Application',
-        component: ComponentCreator('/alsys_user_cards/docs/Alsys Connect/Guide to Mobile Application', '8b2'),
+        path: '/alsys-user-playbook/Alsys Connect/Guide to Mobile Application',
+        component: ComponentCreator('/alsys-user-playbook/Alsys Connect/Guide to Mobile Application', '2c8'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/alsys_user_cards/docs/Alsys Connect/Health',
-        component: ComponentCreator('/alsys_user_cards/docs/Alsys Connect/Health', 'ad8'),
+        path: '/alsys-user-playbook/Alsys Connect/Health',
+        component: ComponentCreator('/alsys-user-playbook/Alsys Connect/Health', 'b42'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/alsys_user_cards/docs/Alsys Connect/Home',
-        component: ComponentCreator('/alsys_user_cards/docs/Alsys Connect/Home', '8f7'),
+        path: '/alsys-user-playbook/Alsys Connect/Home',
+        component: ComponentCreator('/alsys-user-playbook/Alsys Connect/Home', '6c0'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/alsys_user_cards/docs/Alsys Connect/Induction',
-        component: ComponentCreator('/alsys_user_cards/docs/Alsys Connect/Induction', 'a7e'),
+        path: '/alsys-user-playbook/Alsys Connect/Induction',
+        component: ComponentCreator('/alsys-user-playbook/Alsys Connect/Induction', 'c65'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/alsys_user_cards/docs/Alsys Connect/Newsfeed',
-        component: ComponentCreator('/alsys_user_cards/docs/Alsys Connect/Newsfeed', 'f53'),
+        path: '/alsys-user-playbook/Alsys Connect/Newsfeed',
+        component: ComponentCreator('/alsys-user-playbook/Alsys Connect/Newsfeed', '786'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/alsys_user_cards/docs/Alsys Connect/Settings',
-        component: ComponentCreator('/alsys_user_cards/docs/Alsys Connect/Settings', '70b'),
+        path: '/alsys-user-playbook/Alsys Connect/Settings',
+        component: ComponentCreator('/alsys-user-playbook/Alsys Connect/Settings', 'f41'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/alsys_user_cards/docs/Alsys Connect/User Profile',
-        component: ComponentCreator('/alsys_user_cards/docs/Alsys Connect/User Profile', 'd5e'),
+        path: '/alsys-user-playbook/Alsys Connect/User Profile',
+        component: ComponentCreator('/alsys-user-playbook/Alsys Connect/User Profile', 'e0b'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/alsys_user_cards/docs/Alsys Connect/User Registration',
-        component: ComponentCreator('/alsys_user_cards/docs/Alsys Connect/User Registration', '141'),
+        path: '/alsys-user-playbook/Alsys Connect/User Registration',
+        component: ComponentCreator('/alsys-user-playbook/Alsys Connect/User Registration', 'b6d'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/alsys_user_cards/docs/category/alsys-connect',
-        component: ComponentCreator('/alsys_user_cards/docs/category/alsys-connect', 'c91'),
+        path: '/alsys-user-playbook/category/alsys-connect',
+        component: ComponentCreator('/alsys-user-playbook/category/alsys-connect', '5e5'),
         exact: true,
         sidebar: "tutorialSidebar"
       }
     ]
-  },
-  {
-    path: '/alsys_user_cards/',
-    component: ComponentCreator('/alsys_user_cards/', '657'),
-    exact: true
   },
   {
     path: '*',

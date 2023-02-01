@@ -9,15 +9,15 @@ const config = {
   title: 'Welcome to Alsys Playbook',
   tagline: 'by Alsys LTD',
   url: 'https://tehciaktm.github.io',
-  baseUrl: '/alsys_user_cards/',
+  baseUrl: '/alsys-user-playbook/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/favicon.npmico',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'tehciaktm', // Usually your GitHub org/user name.
-  projectName: 'alsys_user_cards', // Usually your repo name.
+  projectName: 'alsys-user-playbook', // Usually your repo name.
 
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
@@ -33,6 +33,7 @@ const config = {
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
+          routeBasePath: '/',
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
@@ -61,12 +62,18 @@ const config = {
         maxHeadingLevel: 5,
       },
       navbar: {
-        //title: 'Alsys',
+        //title: 'Alsys Ltd.',
         logo: {
           alt: 'My Site Logo',
           src: 'img/icon_ok.svg', 
         },
         items: [
+          {
+            type: 'doc',
+            docId: 'intro',
+            position: 'left',
+            label: 'Docs',
+          },
           {
             type: 'docsVersionDropdown',
           },
@@ -74,6 +81,10 @@ const config = {
         ],
       },
       footer: {
+        logo: {
+          alt: 'Meta Open Source Logo',
+          src: 'img/favicon.ico',
+        },
         style: 'dark',
         links: [
           {
@@ -86,6 +97,32 @@ const config = {
               {
                 label: 'alsysoft.com',
                 href: 'https://www.alsysoft.com/',
+              },
+            ],
+          },
+          {
+            title: 'Contact Us',
+            items: [
+              {
+                label: 'UK +44 7522 585 427',
+                href:'tel:+44%207522%20585%20427',              
+              },
+              {
+                label: 'RO +40 756 196 206',
+                href:'tel:+40%20756%20196206',
+              },
+            ],
+          },
+          {
+            title: 'Social',
+            items: [
+              {
+                label: 'linkedin',
+                href:'https://www.linkedin.com/company/alsys-ltd/',              
+              },
+              {
+                label: 'facebook',
+                href:'https://www.facebook.com/alsysoft',
               },
             ],
           },
@@ -110,4 +147,6 @@ const config = {
 };
 
 module.exports = config;
+
+
 

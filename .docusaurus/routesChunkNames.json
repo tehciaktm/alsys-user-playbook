@@ -1,290 +1,290 @@
 {
-  "/alsys_user_cards/__docusaurus/debug-f0a": {
+  "/alsys-user-playbook/__docusaurus/debug-ac7": {
     "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
-      "plugin": "plugin---alsys-user-cards-docusaurus-debug-627-3ea"
+      "plugin": "plugin---alsys-user-playbook-docusaurus-debug-627-18c"
     }
   },
-  "/alsys_user_cards/__docusaurus/debug/config-fd1": {
+  "/alsys-user-playbook/__docusaurus/debug/config-570": {
     "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
-      "plugin": "plugin---alsys-user-cards-docusaurus-debug-627-3ea"
+      "plugin": "plugin---alsys-user-playbook-docusaurus-debug-627-18c"
     }
   },
-  "/alsys_user_cards/__docusaurus/debug/content-f10": {
+  "/alsys-user-playbook/__docusaurus/debug/content-f4a": {
     "__comp": "__comp---theme-debug-contentba-8-ce7",
     "__context": {
-      "plugin": "plugin---alsys-user-cards-docusaurus-debug-627-3ea"
+      "plugin": "plugin---alsys-user-playbook-docusaurus-debug-627-18c"
     },
-    "allContent": "allContent---alsys-user-cards-docusaurus-debug-content-246-666"
+    "allContent": "allContent---alsys-user-playbook-docusaurus-debug-content-246-b27"
   },
-  "/alsys_user_cards/__docusaurus/debug/globalData-83b": {
+  "/alsys-user-playbook/__docusaurus/debug/globalData-316": {
     "__comp": "__comp---theme-debug-global-dataede-0fa",
     "__context": {
-      "plugin": "plugin---alsys-user-cards-docusaurus-debug-627-3ea"
+      "plugin": "plugin---alsys-user-playbook-docusaurus-debug-627-18c"
     }
   },
-  "/alsys_user_cards/__docusaurus/debug/metadata-a2d": {
+  "/alsys-user-playbook/__docusaurus/debug/metadata-90b": {
     "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
     "__context": {
-      "plugin": "plugin---alsys-user-cards-docusaurus-debug-627-3ea"
+      "plugin": "plugin---alsys-user-playbook-docusaurus-debug-627-18c"
     }
   },
-  "/alsys_user_cards/__docusaurus/debug/registry-b18": {
+  "/alsys-user-playbook/__docusaurus/debug/registry-558": {
     "__comp": "__comp---theme-debug-registry-679-501",
     "__context": {
-      "plugin": "plugin---alsys-user-cards-docusaurus-debug-627-3ea"
+      "plugin": "plugin---alsys-user-playbook-docusaurus-debug-627-18c"
     }
   },
-  "/alsys_user_cards/__docusaurus/debug/routes-811": {
+  "/alsys-user-playbook/__docusaurus/debug/routes-c84": {
     "__comp": "__comp---theme-debug-routes-946-699",
     "__context": {
-      "plugin": "plugin---alsys-user-cards-docusaurus-debug-627-3ea"
+      "plugin": "plugin---alsys-user-playbook-docusaurus-debug-627-18c"
     }
   },
-  "/alsys_user_cards/blog-ef5": {
+  "/alsys-user-playbook/blog-088": {
     "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
     "__context": {
-      "plugin": "plugin---alsys-user-cards-blog-35-c-bf6"
+      "plugin": "plugin---alsys-user-playbook-blog-35-c-e38"
     },
-    "sidebar": "sidebar---alsys-user-cards-blog-814-d7d",
+    "sidebar": "sidebar---alsys-user-playbook-blog-814-5be",
     "items": [
       {
-        "content": "content---alsys-user-cards-blog-766-e5b"
+        "content": "content---alsys-user-playbook-blog-766-1af"
       },
       {
-        "content": "content---alsys-user-cards-blogf-4-f-bf4"
+        "content": "content---alsys-user-playbook-blogf-4-f-571"
       },
       {
-        "content": "content---alsys-user-cards-blog-871-3ef"
+        "content": "content---alsys-user-playbook-blog-871-aa8"
       },
       {
-        "content": "content---alsys-user-cards-blog-925-0f6"
+        "content": "content---alsys-user-playbook-blog-925-e08"
       }
     ],
-    "metadata": "metadata---alsys-user-cards-bloga-12-372"
+    "metadata": "metadata---alsys-user-playbook-blog-5-c-2-fe4"
   },
-  "/alsys_user_cards/blog/archive-940": {
+  "/alsys-user-playbook/blog/archive-c4d": {
     "__comp": "__comp---theme-blog-archive-page-9-e-4-1d8",
     "__context": {
-      "plugin": "plugin---alsys-user-cards-blog-35-c-bf6"
+      "plugin": "plugin---alsys-user-playbook-blog-35-c-e38"
     },
-    "archive": "archive---alsys-user-cards-blog-archiveac-5-ff4"
+    "archive": "archive---alsys-user-playbook-blog-archivec-27-e95"
   },
-  "/alsys_user_cards/blog/first-blog-post-e4f": {
+  "/alsys-user-playbook/blog/first-blog-post-df1": {
     "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
-      "plugin": "plugin---alsys-user-cards-blog-35-c-bf6"
+      "plugin": "plugin---alsys-user-playbook-blog-35-c-e38"
     },
-    "sidebar": "sidebar---alsys-user-cards-blog-814-d7d",
-    "content": "content---alsys-user-cards-blog-first-blog-poste-27-ae0"
+    "sidebar": "sidebar---alsys-user-playbook-blog-814-5be",
+    "content": "content---alsys-user-playbook-blog-first-blog-poste-27-6d7"
   },
-  "/alsys_user_cards/blog/long-blog-post-0a7": {
+  "/alsys-user-playbook/blog/long-blog-post-c16": {
     "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
-      "plugin": "plugin---alsys-user-cards-blog-35-c-bf6"
+      "plugin": "plugin---alsys-user-playbook-blog-35-c-e38"
     },
-    "sidebar": "sidebar---alsys-user-cards-blog-814-d7d",
-    "content": "content---alsys-user-cards-blog-long-blog-post-736-b29"
+    "sidebar": "sidebar---alsys-user-playbook-blog-814-5be",
+    "content": "content---alsys-user-playbook-blog-long-blog-post-736-03b"
   },
-  "/alsys_user_cards/blog/mdx-blog-post-dde": {
+  "/alsys-user-playbook/blog/mdx-blog-post-8fa": {
     "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
-      "plugin": "plugin---alsys-user-cards-blog-35-c-bf6"
+      "plugin": "plugin---alsys-user-playbook-blog-35-c-e38"
     },
-    "sidebar": "sidebar---alsys-user-cards-blog-814-d7d",
-    "content": "content---alsys-user-cards-blog-mdx-blog-post-593-01d"
+    "sidebar": "sidebar---alsys-user-playbook-blog-814-5be",
+    "content": "content---alsys-user-playbook-blog-mdx-blog-post-593-b15"
   },
-  "/alsys_user_cards/blog/tags-f47": {
+  "/alsys-user-playbook/blog/tags-97d": {
     "__comp": "__comp---theme-blog-tags-list-page-01-a-d0b",
     "__context": {
-      "plugin": "plugin---alsys-user-cards-blog-35-c-bf6"
+      "plugin": "plugin---alsys-user-playbook-blog-35-c-e38"
     },
-    "sidebar": "sidebar---alsys-user-cards-blog-814-d7d",
-    "tags": "tags---alsys-user-cards-blog-tags-4-f-5-9cd"
+    "sidebar": "sidebar---alsys-user-playbook-blog-814-5be",
+    "tags": "tags---alsys-user-playbook-blog-tags-51-c-a12"
   },
-  "/alsys_user_cards/blog/tags/docusaurus-e40": {
+  "/alsys-user-playbook/blog/tags/docusaurus-fe7": {
     "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
-      "plugin": "plugin---alsys-user-cards-blog-35-c-bf6"
+      "plugin": "plugin---alsys-user-playbook-blog-35-c-e38"
     },
-    "sidebar": "sidebar---alsys-user-cards-blog-814-d7d",
+    "sidebar": "sidebar---alsys-user-playbook-blog-814-5be",
     "items": [
       {
-        "content": "content---alsys-user-cards-blog-766-e5b"
+        "content": "content---alsys-user-playbook-blog-766-1af"
       },
       {
-        "content": "content---alsys-user-cards-blogf-4-f-bf4"
+        "content": "content---alsys-user-playbook-blogf-4-f-571"
       },
       {
-        "content": "content---alsys-user-cards-blog-871-3ef"
+        "content": "content---alsys-user-playbook-blog-871-aa8"
       },
       {
-        "content": "content---alsys-user-cards-blog-925-0f6"
+        "content": "content---alsys-user-playbook-blog-925-e08"
       }
     ],
-    "tag": "tag---alsys-user-cards-blog-tags-docusaurusfd-1-eb7",
-    "listMetadata": "listMetadata---alsys-user-cards-blog-tags-docusaurus-70-e-980"
+    "tag": "tag---alsys-user-playbook-blog-tags-docusaurusd-31-f92",
+    "listMetadata": "listMetadata---alsys-user-playbook-blog-tags-docusaurusefe-2ea"
   },
-  "/alsys_user_cards/blog/tags/facebook-f6e": {
+  "/alsys-user-playbook/blog/tags/facebook-e72": {
     "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
-      "plugin": "plugin---alsys-user-cards-blog-35-c-bf6"
+      "plugin": "plugin---alsys-user-playbook-blog-35-c-e38"
     },
-    "sidebar": "sidebar---alsys-user-cards-blog-814-d7d",
+    "sidebar": "sidebar---alsys-user-playbook-blog-814-5be",
     "items": [
       {
-        "content": "content---alsys-user-cards-blog-766-e5b"
+        "content": "content---alsys-user-playbook-blog-766-1af"
       }
     ],
-    "tag": "tag---alsys-user-cards-blog-tags-facebook-1-df-e7a",
-    "listMetadata": "listMetadata---alsys-user-cards-blog-tags-facebooke-5-c-114"
+    "tag": "tag---alsys-user-playbook-blog-tags-facebookeb-3-089",
+    "listMetadata": "listMetadata---alsys-user-playbook-blog-tags-facebook-81-c-901"
   },
-  "/alsys_user_cards/blog/tags/hello-e7a": {
+  "/alsys-user-playbook/blog/tags/hello-e28": {
     "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
-      "plugin": "plugin---alsys-user-cards-blog-35-c-bf6"
+      "plugin": "plugin---alsys-user-playbook-blog-35-c-e38"
     },
-    "sidebar": "sidebar---alsys-user-cards-blog-814-d7d",
+    "sidebar": "sidebar---alsys-user-playbook-blog-814-5be",
     "items": [
       {
-        "content": "content---alsys-user-cards-blog-766-e5b"
+        "content": "content---alsys-user-playbook-blog-766-1af"
       },
       {
-        "content": "content---alsys-user-cards-blog-871-3ef"
+        "content": "content---alsys-user-playbook-blog-871-aa8"
       }
     ],
-    "tag": "tag---alsys-user-cards-blog-tags-hello-192-915",
-    "listMetadata": "listMetadata---alsys-user-cards-blog-tags-hello-81-e-ec9"
+    "tag": "tag---alsys-user-playbook-blog-tags-helloc-68-df4",
+    "listMetadata": "listMetadata---alsys-user-playbook-blog-tags-helloe-96-a68"
   },
-  "/alsys_user_cards/blog/tags/hola-612": {
+  "/alsys-user-playbook/blog/tags/hola-d7e": {
     "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
-      "plugin": "plugin---alsys-user-cards-blog-35-c-bf6"
+      "plugin": "plugin---alsys-user-playbook-blog-35-c-e38"
     },
-    "sidebar": "sidebar---alsys-user-cards-blog-814-d7d",
+    "sidebar": "sidebar---alsys-user-playbook-blog-814-5be",
     "items": [
       {
-        "content": "content---alsys-user-cards-blog-925-0f6"
+        "content": "content---alsys-user-playbook-blog-925-e08"
       }
     ],
-    "tag": "tag---alsys-user-cards-blog-tags-holaa-15-814",
-    "listMetadata": "listMetadata---alsys-user-cards-blog-tags-hola-4-e-5-18b"
+    "tag": "tag---alsys-user-playbook-blog-tags-hola-879-5ed",
+    "listMetadata": "listMetadata---alsys-user-playbook-blog-tags-hola-58-f-33e"
   },
-  "/alsys_user_cards/blog/welcome-7e8": {
+  "/alsys-user-playbook/blog/welcome-329": {
     "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
-      "plugin": "plugin---alsys-user-cards-blog-35-c-bf6"
+      "plugin": "plugin---alsys-user-playbook-blog-35-c-e38"
     },
-    "sidebar": "sidebar---alsys-user-cards-blog-814-d7d",
-    "content": "content---alsys-user-cards-blog-welcomed-9-f-a7d"
+    "sidebar": "sidebar---alsys-user-playbook-blog-814-5be",
+    "content": "content---alsys-user-playbook-blog-welcomed-9-f-0ee"
   },
-  "/alsys_user_cards/markdown-page-3dd": {
+  "/alsys-user-playbook/intro-c52": {
+    "__comp": "__comp---site-src-pages-intro-js-48-e-242",
+    "__context": {
+      "plugin": "plugin---alsys-user-playbook-introdd-8-0bb"
+    },
+    "config": "config---alsys-user-playbook-intro-5-e-9-504"
+  },
+  "/alsys-user-playbook/markdown-page-4ee": {
     "__comp": "__comp---theme-mdx-page-1-f-3-b90",
     "__context": {
-      "plugin": "plugin---alsys-user-cards-markdown-pagedd-8-79b"
+      "plugin": "plugin---alsys-user-playbook-introdd-8-0bb"
     },
-    "content": "content---alsys-user-cards-markdown-page-393-d0b"
+    "content": "content---alsys-user-playbook-markdown-page-393-5cc"
   },
-  "/alsys_user_cards/docs/next-cc1": {
+  "/alsys-user-playbook/next-524": {
     "__comp": "__comp---theme-doc-page-1-be-9be",
     "__context": {
-      "plugin": "plugin---alsys-user-cards-docs-next-3-fb-a9f"
+      "plugin": "plugin---alsys-user-playbook-next-3-fb-004"
     },
-    "versionMetadata": "versionMetadata---alsys-user-cards-docs-next-935-89c"
+    "versionMetadata": "versionMetadata---alsys-user-playbook-next-935-9bc"
   },
-  "/alsys_user_cards/docs/next/-5a7": {
+  "/alsys-user-playbook/next/-171": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---alsys-user-cards-docs-next-intro-0-e-3-8e9"
+    "content": "content---alsys-user-playbook-next-0-e-3-909"
   },
-  "/alsys_user_cards/docs/next/Alsys Connect/Guide to Mobile Application-280": {
+  "/alsys-user-playbook/next/Alsys Connect/Guide to Mobile Application-ec2": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---alsys-user-cards-docs-next-alsys-connect-guide-to-mobile-application-7-e-2-315"
+    "content": "content---alsys-user-playbook-next-alsys-connect-guide-to-mobile-application-7-e-2-7e2"
   },
-  "/alsys_user_cards/docs/next/Alsys Connect/Health-752": {
+  "/alsys-user-playbook/next/Alsys Connect/Health-ce7": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---alsys-user-cards-docs-next-alsys-connect-health-05-e-7fd"
+    "content": "content---alsys-user-playbook-next-alsys-connect-health-05-e-32f"
   },
-  "/alsys_user_cards/docs/next/Alsys Connect/Home-139": {
+  "/alsys-user-playbook/next/Alsys Connect/Home-714": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---alsys-user-cards-docs-next-alsys-connect-homeeba-af2"
+    "content": "content---alsys-user-playbook-next-alsys-connect-homeeba-69d"
   },
-  "/alsys_user_cards/docs/next/Alsys Connect/Induction-481": {
+  "/alsys-user-playbook/next/Alsys Connect/Induction-868": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---alsys-user-cards-docs-next-alsys-connect-induction-28-b-558"
+    "content": "content---alsys-user-playbook-next-alsys-connect-induction-28-b-4ab"
   },
-  "/alsys_user_cards/docs/next/Alsys Connect/Newsfeed-1ed": {
+  "/alsys-user-playbook/next/Alsys Connect/Newsfeed-471": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---alsys-user-cards-docs-next-alsys-connect-newsfeede-0-c-dfb"
+    "content": "content---alsys-user-playbook-next-alsys-connect-newsfeede-0-c-909"
   },
-  "/alsys_user_cards/docs/next/Alsys Connect/Settings-8a4": {
+  "/alsys-user-playbook/next/Alsys Connect/Settings-f11": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---alsys-user-cards-docs-next-alsys-connect-settingsf-52-fa1"
+    "content": "content---alsys-user-playbook-next-alsys-connect-settingsf-52-b0d"
   },
-  "/alsys_user_cards/docs/next/Alsys Connect/User Profile-437": {
+  "/alsys-user-playbook/next/Alsys Connect/User Profile-e76": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---alsys-user-cards-docs-next-alsys-connect-user-profile-6-d-6-195"
+    "content": "content---alsys-user-playbook-next-alsys-connect-user-profile-6-d-6-043"
   },
-  "/alsys_user_cards/docs/next/Alsys Connect/User Registration-b48": {
+  "/alsys-user-playbook/next/Alsys Connect/User Registration-b23": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---alsys-user-cards-docs-next-alsys-connect-user-registration-233-5ff"
+    "content": "content---alsys-user-playbook-next-alsys-connect-user-registration-233-cb9"
   },
-  "/alsys_user_cards/docs/next/category/alsys-connect-4a1": {
+  "/alsys-user-playbook/next/category/alsys-connect-9eb": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---alsys-user-cards-docs-next-category-alsys-connected-8-2a8"
+    "categoryGeneratedIndex": "categoryGeneratedIndex---alsys-user-playbook-next-category-alsys-connect-4-b-0-8b3"
   },
-  "/alsys_user_cards/docs-34f": {
+  "/alsys-user-playbook/-79f": {
     "__comp": "__comp---theme-doc-page-1-be-9be",
     "__context": {
-      "plugin": "plugin---alsys-user-cards-docs-next-3-fb-a9f"
+      "plugin": "plugin---alsys-user-playbook-next-3-fb-004"
     },
-    "versionMetadata": "versionMetadata---alsys-user-cards-docs-62-e-5bd"
+    "versionMetadata": "versionMetadata---alsys-user-playbook-62-e-a8b"
   },
-  "/alsys_user_cards/docs/-543": {
+  "/alsys-user-playbook/-a19": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---alsys-user-cards-docs-intro-5-d-9-57f"
+    "content": "content---alsys-user-playbook-5-d-9-925"
   },
-  "/alsys_user_cards/docs/Alsys Connect/Guide to Mobile Application-8b2": {
+  "/alsys-user-playbook/Alsys Connect/Guide to Mobile Application-2c8": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---alsys-user-cards-docs-alsys-connect-guide-to-mobile-applicationd-35-3c0"
+    "content": "content---alsys-user-playbook-alsys-connect-guide-to-mobile-applicationd-35-50c"
   },
-  "/alsys_user_cards/docs/Alsys Connect/Health-ad8": {
+  "/alsys-user-playbook/Alsys Connect/Health-b42": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---alsys-user-cards-docs-alsys-connect-health-738-e63"
+    "content": "content---alsys-user-playbook-alsys-connect-health-738-943"
   },
-  "/alsys_user_cards/docs/Alsys Connect/Home-8f7": {
+  "/alsys-user-playbook/Alsys Connect/Home-6c0": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---alsys-user-cards-docs-alsys-connect-home-725-291"
+    "content": "content---alsys-user-playbook-alsys-connect-home-725-753"
   },
-  "/alsys_user_cards/docs/Alsys Connect/Induction-a7e": {
+  "/alsys-user-playbook/Alsys Connect/Induction-c65": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---alsys-user-cards-docs-alsys-connect-inductioncce-3b4"
+    "content": "content---alsys-user-playbook-alsys-connect-inductioncce-48b"
   },
-  "/alsys_user_cards/docs/Alsys Connect/Newsfeed-f53": {
+  "/alsys-user-playbook/Alsys Connect/Newsfeed-786": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---alsys-user-cards-docs-alsys-connect-newsfeed-0-b-3-f4a"
+    "content": "content---alsys-user-playbook-alsys-connect-newsfeed-0-b-3-6b7"
   },
-  "/alsys_user_cards/docs/Alsys Connect/Settings-70b": {
+  "/alsys-user-playbook/Alsys Connect/Settings-f41": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---alsys-user-cards-docs-alsys-connect-settings-6-a-7-5d0"
+    "content": "content---alsys-user-playbook-alsys-connect-settings-6-a-7-bf8"
   },
-  "/alsys_user_cards/docs/Alsys Connect/User Profile-d5e": {
+  "/alsys-user-playbook/Alsys Connect/User Profile-e0b": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---alsys-user-cards-docs-alsys-connect-user-profile-4-ae-9fd"
+    "content": "content---alsys-user-playbook-alsys-connect-user-profile-4-ae-12d"
   },
-  "/alsys_user_cards/docs/Alsys Connect/User Registration-141": {
+  "/alsys-user-playbook/Alsys Connect/User Registration-b6d": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---alsys-user-cards-docs-alsys-connect-user-registration-265-61a"
+    "content": "content---alsys-user-playbook-alsys-connect-user-registration-265-235"
   },
-  "/alsys_user_cards/docs/category/alsys-connect-c91": {
+  "/alsys-user-playbook/category/alsys-connect-5e5": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---alsys-user-cards-docs-category-alsys-connect-681-665"
-  },
-  "/alsys_user_cards/-657": {
-    "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
-    "__context": {
-      "plugin": "plugin---alsys-user-cards-markdown-pagedd-8-79b"
-    },
-    "config": "config---alsys-user-cards-5-e-9-2fa"
+    "categoryGeneratedIndex": "categoryGeneratedIndex---alsys-user-playbook-category-alsys-connect-256-d93"
   }
 }

@@ -6,7 +6,7 @@
   "source": "@site/docs/Alsys Connect/Settings.md",
   "sourceDirName": "Alsys Connect",
   "slug": "/Alsys Connect/Settings",
-  "permalink": "/alsys_user_cards/docs/next/Alsys Connect/Settings",
+  "permalink": "/alsys-user-playbook/next/Alsys Connect/Settings",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -17,6 +17,6 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Newsfeed",
-    "permalink": "/alsys_user_cards/docs/next/Alsys Connect/Newsfeed"
+    "permalink": "/alsys-user-playbook/next/Alsys Connect/Newsfeed"
   }
 }

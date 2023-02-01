@@ -12,7 +12,7 @@
       {
         "type": "link",
         "label": "Introduction",
-        "href": "/alsys_user_cards/docs/next/",
+        "href": "/alsys-user-playbook/next/",
         "docId": "intro"
       },
       {
@@ -24,53 +24,53 @@
           {
             "type": "link",
             "label": "Guide to Mobile Application",
-            "href": "/alsys_user_cards/docs/next/Alsys Connect/Guide to Mobile Application",
+            "href": "/alsys-user-playbook/next/Alsys Connect/Guide to Mobile Application",
             "docId": "Alsys Connect/Guide to Mobile Application"
           },
           {
             "type": "link",
             "label": "User Registration",
-            "href": "/alsys_user_cards/docs/next/Alsys Connect/User Registration",
+            "href": "/alsys-user-playbook/next/Alsys Connect/User Registration",
             "docId": "Alsys Connect/User Registration"
           },
           {
             "type": "link",
             "label": "User Profile",
-            "href": "/alsys_user_cards/docs/next/Alsys Connect/User Profile",
+            "href": "/alsys-user-playbook/next/Alsys Connect/User Profile",
             "docId": "Alsys Connect/User Profile"
           },
           {
             "type": "link",
             "label": "Home",
-            "href": "/alsys_user_cards/docs/next/Alsys Connect/Home",
+            "href": "/alsys-user-playbook/next/Alsys Connect/Home",
             "docId": "Alsys Connect/Home"
           },
           {
             "type": "link",
             "label": "Health",
-            "href": "/alsys_user_cards/docs/next/Alsys Connect/Health",
+            "href": "/alsys-user-playbook/next/Alsys Connect/Health",
             "docId": "Alsys Connect/Health"
           },
           {
             "type": "link",
             "label": "Induction",
-            "href": "/alsys_user_cards/docs/next/Alsys Connect/Induction",
+            "href": "/alsys-user-playbook/next/Alsys Connect/Induction",
             "docId": "Alsys Connect/Induction"
           },
           {
             "type": "link",
             "label": "Newsfeed",
-            "href": "/alsys_user_cards/docs/next/Alsys Connect/Newsfeed",
+            "href": "/alsys-user-playbook/next/Alsys Connect/Newsfeed",
             "docId": "Alsys Connect/Newsfeed"
           },
           {
             "type": "link",
             "label": "Settings",
-            "href": "/alsys_user_cards/docs/next/Alsys Connect/Settings",
+            "href": "/alsys-user-playbook/next/Alsys Connect/Settings",
             "docId": "Alsys Connect/Settings"
           }
         ],
-        "href": "/alsys_user_cards/docs/next/category/alsys-connect"
+        "href": "/alsys-user-playbook/next/category/alsys-connect"
       }
     ]
   },
