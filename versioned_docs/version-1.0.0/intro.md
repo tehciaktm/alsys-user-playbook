@@ -25,3 +25,6 @@ import alsys_intro1 from '/Users/tehciaktm/Documents/GitHub/alsys_user_cards/sta
 <br/>
 
 <p>Whether you're a new employee or a seasoned professional, our app is the perfect tool to help you stay informed and stay safe on the job. </p>
+
+<br/>
+<br/>
