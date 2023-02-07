@@ -10,7 +10,7 @@ export default {
   "baseUrl": "/alsys-user-playbook/",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
-  "favicon": "img/favicon.npmico",
+  "favicon": "img/favicon.ico",
   "organizationName": "tehciaktm",
   "projectName": "alsys-user-playbook",
   "i18n": {
@@ -60,6 +60,10 @@ export default {
           "position": "left",
           "dropdownItemsBefore": [],
           "dropdownItemsAfter": []
+        },
+        {
+          "type": "search",
+          "position": "right"
         }
       ],
       "hideOnScroll": false

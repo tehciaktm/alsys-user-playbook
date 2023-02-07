@@ -12,7 +12,7 @@ const config = {
   baseUrl: '/alsys-user-playbook/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/favicon.npmico',
+  favicon: 'img/favicon.ico',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
@@ -76,6 +76,10 @@ const config = {
           },
           {
             type: 'docsVersionDropdown',
+          },
+          {
+            type: 'search',
+            position:'right',
           },
           //{to: '/blog', label: 'Blog', position: 'left'},
         ],
